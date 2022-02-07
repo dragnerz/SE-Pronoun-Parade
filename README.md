@@ -1,4 +1,4 @@
-# SE-Pronoun-Parade
+# Pronoun Parade Widget
 StreamElements widget for a Pronoun Parade Redemption
 
 written by Ky/dragnerz
