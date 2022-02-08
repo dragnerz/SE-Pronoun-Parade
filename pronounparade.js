@@ -119,6 +119,7 @@ ComfyJS.onCommand = ( user, command, message, flags, extra ) => {
   }
   if( flags.broadcaster && command === "paradeoff" ) {
     parade_flag = false;
+    pronouns_users = [];
   }
 }
 
