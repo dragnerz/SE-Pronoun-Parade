@@ -1,3 +1,9 @@
+// SE Party Balloons
+//
+// written by Ky/dragnerz
+//
+// built using ComfyJS: https://github.com/instafluff/ComfyJS
+
 const TWITCHUSER = "{{username}}"
 const OAUTH_USER = "{{ouath}}"
 
