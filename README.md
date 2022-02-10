@@ -30,8 +30,6 @@ This widget requires the use of ComfyJS in order to connect to Twitch Chat and r
 12. Paste the OAuth key in the Pronoun Parade Widget settings (under OAuth Key), and enter your channel name, and the channel redemption you want this tied to.
 You're done! This should now be connected!
 
-Make sure to hide this layer so it doesn't appear in OBS
-
 NOTE: 
 Every few months Twitch will require re-authorization of these keys. If the bot stops working after some time, you likely need to repeat this process
 
